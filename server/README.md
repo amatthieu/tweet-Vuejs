@@ -21,7 +21,7 @@ Here are the webservices :
 
 The `message` object :
 
-``` JSON
+```javascript
 {
   _id: 0,
   mail: "",
